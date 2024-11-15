@@ -24,7 +24,9 @@ include "header.php";
     <!--Action boxes-->
     <div class="container-fluid" style="background-color:white;">
 
-        <div class="row-fluid" style="background-color: white; min-height: 1000px; padding:10px;margin-left:280px;margin-top:90px;">
+        <div class="row-fluid" style="background-color: #85FFBD;
+background-image: linear-gradient(45deg, #85FFBD 0%, #FFFB7D 100%);
+ min-height: 1000px; padding:10px;margin-left:280px;margin-top:90px;">
         <div id="content-header">
         <div id="breadcrumb" style="color:red;"><i class="icon-home"></i>
                 <h1>Welcome To Dashboard </h1></div>

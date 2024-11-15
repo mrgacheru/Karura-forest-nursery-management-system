@@ -147,7 +147,7 @@ while($row=mysqli_fetch_array($res))
                         <div class="widget-content nopadding">
                             <form name="form1" action="" method="post" class="form-horizontal">
                                 <div class="control-group">
-                                    <label class="control-label">Product Company:</label>
+                                    <label class="control-label">Nursery name:</label>
 
                                     <div class="controls">
                                         <input type="text" name="product_company" class="span11" value="<?php echo $product_company; ?>" readonly>
@@ -156,10 +156,10 @@ while($row=mysqli_fetch_array($res))
 
 
                                 <div class="control-group">
-                                    <label class="control-label">Product Name:</label>
+                                    <label class="control-label">Item name:</label>
 
                                     <div class="controls">
-                                        <input type="text" name="product_name" class="span11" placeholder="Enter Product Name" value="<?php echo $product_name; ?>" readonly>
+                                        <input type="text" name="product_name" class="span11" placeholder="Enter item name" value="<?php echo $product_name; ?>" readonly>
                                     </div>
                                 </div>
 
@@ -167,7 +167,7 @@ while($row=mysqli_fetch_array($res))
 
 
                                 <div class="control-group">
-                                    <label class="control-label">Product Unit</label>
+                                    <label class="control-label">Item unit</label>
 
                                     <div class="controls">
                                         <input type="text" name="product_unit" class="span11" placeholder="Enter Packing Size" value="<?php echo $product_unit ?>" readonly>
@@ -176,7 +176,7 @@ while($row=mysqli_fetch_array($res))
 
 
                                 <div class="control-group">
-                                    <label class="control-label">Product Qty</label>
+                                    <label class="control-label">Item Qty</label>
 
                                     <div class="controls">
                                         <input type="text" name="product_qty" class="span11" placeholder="Enter Packing Size" value="<?php echo $product_qty; ?>" readonly>

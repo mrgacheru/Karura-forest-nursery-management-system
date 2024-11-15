@@ -120,7 +120,7 @@ include "../user/connection.php";
 
                     <form class="form-inline" action="" name="form1" method="post">
                         <div class="form-group">
-                            <label for="email">Select Company Name</label>
+                            <label for="email">select nursery Name</label>
                             <select class="form-control" name="company_name">
                                 <?php
                                 $res=mysqli_query($link,"select * from party_info");
@@ -152,11 +152,11 @@ include "../user/connection.php";
                             <thead>
                             <tr>
                                 <th>Sr No</th>
-                                <th>Product Company</th>
-                                <th>Product Name</th>
-                                <th>Product Unit</th>
+                                <th>Nursery name</th>
+                                <th>Item name</th>
+                                <th>Item unit</th>
                                 <th>Packing Size</th>
-                                <th>Product Qty</th>
+                                <th>Item Qty</th>
                                 <th>Price</th>
                                 <th>Party Name</th>
                                 <th>Purchase Type</th>

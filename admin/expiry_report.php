@@ -147,11 +147,11 @@ include "../user/connection.php";
                                 <thead>
                                 <tr>
                                     <th>Sr No</th>
-                                    <th>Product Company</th>
-                                    <th>Product Name</th>
-                                    <th>Product Unit</th>
+                                    <th>Nursery name</th>
+                                    <th>Item name</th>
+                                    <th>Item unit</th>
                                     <th>Packing Size</th>
-                                    <th>Product Qty</th>
+                                    <th>Item Qty</th>
                                     <th>Price</th>
                                     <th>Party Name</th>
                                     <th>Purchase Type</th>
@@ -191,11 +191,11 @@ include "../user/connection.php";
                                 <thead>
                                 <tr>
                                     <th>Sr No</th>
-                                    <th>Product Company</th>
-                                    <th>Product Name</th>
-                                    <th>Product Unit</th>
+                                    <th>Nursery name</th>
+                                    <th>Item name</th>
+                                    <th>Item unit</th>
                                     <th>Packing Size</th>
-                                    <th>Product Qty</th>
+                                    <th>Item Qty</th>
                                     <th>Price</th>
                                     <th>Party Name</th>
                                     <th>Purchase Type</th>

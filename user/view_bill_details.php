@@ -66,9 +66,9 @@ while($row=mysqli_fetch_array($res))
             <br>
             <table class="table table-bordered">
                 <tr>
-                    <th>Product Company</th>
-                    <th>Product Name</th>
-                    <th>Product Unit</th>
+                    <th>Nursery name</th>
+                    <th>Item name</th>
+                    <th>Item unit</th>
                     <th>Packing Size</th>
                     <th>Price</th>
                     <th>Qty</th>

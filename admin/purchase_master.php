@@ -274,7 +274,7 @@ include "../user/connection.php";
                         <div class="widget-content nopadding">
                             <form name="form1" action="" method="post" class="form-horizontal">
                                 <div class="control-group">
-                                    <label class="control-label">Select Company:</label>
+                                    <label class="control-label">select nursery:</label>
 
                                     <div class="controls">
                                         <select class="span11" name="company_name" id="company_name"
@@ -295,7 +295,7 @@ include "../user/connection.php";
 
 
                                 <div class="control-group">
-                                    <label class="control-label">Select Product Name:</label>
+                                    <label class="control-label">Select Item name:</label>
 
                                     <div class="controls" id="product_name_div">
                                         <select class="span11">

@@ -134,7 +134,7 @@ body {
                         <div class="widget-content nopadding">
                             <form name="form1" action="" method="post" class="form-horizontal">
                                 <div class="control-group">
-                                    <label class="control-label">Select Company:</label>
+                                    <label class="control-label">select nursery:</label>
 
                                     <div class="controls">
                                         <select class="span11" name="company_name">
@@ -158,10 +158,10 @@ body {
 
 
                                 <div class="control-group">
-                                    <label class="control-label">Enter Product Name:</label>
+                                    <label class="control-label">Enter item name:</label>
 
                                     <div class="controls">
-                                        <input type="text" name="product_name" class="span11" placeholder="Enter Product Name" value="<?php echo $product_name; ?>">
+                                        <input type="text" name="product_name" class="span11" placeholder="Enter item name" value="<?php echo $product_name; ?>">
                                     </div>
                                 </div>
 

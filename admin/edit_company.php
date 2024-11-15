@@ -136,10 +136,10 @@ while($row=mysqli_fetch_array($res))
                         <div class="widget-content nopadding">
                             <form name="form1" action="" method="post" class="form-horizontal">
                                 <div class="control-group">
-                                    <label class="control-label">Company Name :</label>
+                                    <label class="control-label">Nursery name :</label>
 
                                     <div class="controls">
-                                        <input type="text" class="span11" placeholder="Company name" name="companyname" value="<?php echo $company_name; ?>" required/>
+                                        <input type="text" class="span11" placeholder="Nursery name" name="companyname" value="<?php echo $company_name; ?>" required/>
                                     </div>
                                 </div>
 

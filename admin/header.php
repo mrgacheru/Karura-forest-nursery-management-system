@@ -143,21 +143,21 @@
 <!--sidebar-menu-->
 <div id="sidebar">
     <ul>
-        <li class="active">
+        <li >
             <a href="dashboard.php"><i class="icon icon-home"></i><span>Dashboard</span></a>
         </li>
 
         <li >
-            <a href="add_new_user.php"><i class="icon icon-user"></i><span>Add New User</span></a>
+            <a href="add_new_user.php"><i class="icon icon-user"></i><span>Add User</span></a>
         </li>
         <li >
             <a href="add_new_unit.php"><i class="icon icon-user"></i><span>Add New Unit</span></a>
         </li>
         <li>
-            <a href="add_company.php"><i class="icon icon-user"></i><span>Add New Company</span></a>
+            <a href="add_company.php"><i class="icon icon-user"></i><span>Add new nursery</span></a>
         </li>
         <li>
-            <a href="add_products.php"><i class="icon icon-user"></i><span>Add New Products</span></a>
+            <a href="add_products.php"><i class="icon icon-user"></i><span>Add new Item</span></a>
         </li>
         <li>
             <a href="add_new_party.php"><i class="icon icon-user"></i><span>Add New Party</span></a>

@@ -150,7 +150,7 @@ while($row=mysqli_fetch_array($res))
 
                         <div class="span2">
                             <div>
-                                <label>Product Company</label>
+                                <label>Nursery name</label>
                                 <select class="span11" name="company_name" id="company_name"
                                         onchange="select_company(this.value)">
                                     <option>Select</option>
@@ -168,7 +168,7 @@ while($row=mysqli_fetch_array($res))
 
                         <div class="span2">
                             <div>
-                                <label>Product Name</label>
+                                <label>Item name</label>
                                 <div id="product_name_div">
                                     <select class="span11">
                                         <option>Select</option>

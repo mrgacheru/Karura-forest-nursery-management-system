@@ -155,7 +155,7 @@ include "../user/connection.php";
         <!--breadcrumbs-->
         <div id="content-header">
             <div id="breadcrumb"><a href="#" class="tip-bottom"><i class="icon-home"></i>
-                    Add New User</a></div>
+                    Add User</a></div>
         </div>
         <!--End-breadcrumbs-->
 
@@ -164,7 +164,7 @@ include "../user/connection.php";
 
             <div class="row-fluid" style="background-color: white; min-height: 1000px; padding:10px; margin-top:40px;margin-left:350px;">
             <div class="widget-title"><span class="icon"> <i class="icon-align-justify"></i> </span>
-                            <h1>Add New User</h1>
+                            <h1>Add User</h1>
                         </div>
                 <div class="span7">
                     <div class="widget-box">

@@ -160,7 +160,7 @@ include "../user/connection.php";
         <!--breadcrumbs-->
         <div id="content-header">
             <div id="breadcrumb"><a href="#" class="tip-bottom"><i class="icon-home"></i>
-                    Add New Products</a></div>
+                    Add new Item</a></div>
         </div>
         <!--End-breadcrumbs-->
         <!--Action boxes-->
@@ -169,12 +169,12 @@ include "../user/connection.php";
                 <div class="span12">
                     <div class="widget-box">
                         <div class="widget-title"><span class="icon"> <i class="icon-align-justify"></i> </span>
-                            <h1>Add New Products</h1>
+                            <h1>Add new Item</h1>
                         </div>
                         <div class="widget-content nopadding">
                             <form name="form1" action="" method="post" class="form-horizontal">
                                 <div class="control-group">
-                                    <label class="control-label">Select Company:</label>
+                                    <label class="control-label">select nursery:</label>
 
                                     <div class="controls">
                                         <select class="span11" name="company_name">
@@ -196,10 +196,10 @@ include "../user/connection.php";
 
 
                                 <div class="control-group">
-                                    <label class="control-label">Enter Product Name:</label>
+                                    <label class="control-label">Enter item name:</label>
 
                                     <div class="controls">
-                                       <input type="text" name="product_name" class="span11" placeholder="Enter Product Name">
+                                       <input type="text" name="product_name" class="span11" placeholder="Enter item name">
                                     </div>
                                 </div>
 
@@ -254,8 +254,8 @@ include "../user/connection.php";
                             <thead>
                             <tr>
                                 <th>id</th>
-                                <th>company name</th>
-                                <th>product name</th>
+                                <th>Nursery name</th>
+                                <th>Item name</th>
                                 <th>unit</th>
                                 <th>packing size</th>
                                 <th>Edit</th>

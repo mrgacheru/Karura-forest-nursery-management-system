@@ -146,11 +146,11 @@
 <!--sidebar-menu-->
 <div id="sidebar">
     <ul>
-        <li class="active">
+        <li >
             <a href="dashboard.php"><i class="icon icon-home"></i><span>Dashboard</span></a>
         </li>
         <li>
-            <a href="purchase_master.php"><i class="icon icon-home"></i><span>Purchase Product</span></a>
+            <a href="purchase_master.php"><i class="icon icon-home"></i><span>Buy item</span></a>
         </li>
         <li>
             <a href="sales_master.php"><i class="icon icon-home"></i><span>Sales Master</span></a>

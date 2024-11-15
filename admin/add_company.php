@@ -260,7 +260,7 @@ include "../user/connection.php";
         <!--breadcrumbs-->
         <div id="content-header">
             <div id="breadcrumb"><a href="#" class="tip-bottom"><i class="icon-home"></i>
-                    Add New Company</a></div>
+                    Add new nursery</a></div>
         </div>
         <!--End-breadcrumbs-->
         <!--Action boxes-->
@@ -269,15 +269,15 @@ include "../user/connection.php";
                 <div class="span12">
                     <div class="widget-box">
                         <div class="widget-title"><span class="icon"> <i class="icon-align-justify"></i> </span>
-                            <h1>Add New Company</h1>
+                            <h1>Add new nursery</h1>
                         </div>
                         <div class="widget-content nopadding">
                             <form name="form1" action="" method="post" class="form-horizontal">
                                 <div class="control-group">
-                                    <label class="control-label">Company Name :</label>
+                                    <label class="control-label">Nursery name :</label>
 
                                     <div class="controls">
-                                        <input type="text" class="span11" placeholder="Company name" name="companyname" required/>
+                                        <input type="text" class="span11" placeholder="Nursery name" name="companyname" required/>
                                     </div>
                                 </div>
 
@@ -301,7 +301,7 @@ include "../user/connection.php";
                             <thead>
                             <tr>
                                 <th>id</th>
-                                <th>Company name</th>
+                                <th>Nursery name</th>
                                 <th>Edit</th>
                                 <th>Delete</th>
                             </tr>

@@ -3,12 +3,12 @@ session_start();
 ?>
 <table class="table table-bordered">
     <tr>
-        <th>Product Company</th>
-        <th>Product Name</th>
-        <th>Product Unit</th>
+        <th>Nursery name</th>
+        <th>Item name</th>
+        <th>Item unit</th>
         <th>Product Size</th>
         <th>Product Price</th>
-        <th>Product Qty</th>
+        <th>Item Qty</th>
         <th>Total</th>
         <th>Delete</th>
     </tr>

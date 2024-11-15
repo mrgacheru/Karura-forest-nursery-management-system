@@ -21,12 +21,12 @@ include "../user/connection.php";
                     <tr>
                         <th>Bill No</th>
                         <th>Return Date</th>
-                        <th>Product Company</th>
-                        <th>Product Name</th>
-                        <th>Product Unit</th>
+                        <th>Nursery name</th>
+                        <th>Item name</th>
+                        <th>Item unit</th>
                         <th>Packing Size</th>
                         <th>Product Price</th>
-                        <th>Product Qty</th>
+                        <th>Item Qty</th>
                         <th>Total</th>
                     </tr>
 
